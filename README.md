@@ -4,7 +4,7 @@
   <li> 🌱 Iniciando Com Node e React.
   <li> 📫 Pretendo Me Especializar em Frameworks Back e Front de JS.
   <li> 🔭 Estou Sempre Buscando Me Aperfeiçoar Em Diferentes Ferramentas Por Projetos.
-  <li> 🎓 Estudante Engenharia de Software na UNDB 5/8.
+  <li> 🎓 Estudante Engenharia de Software na UNDB 5/9.
   <li> 🌟 Quero Ser Destaque Na Minha Área.
     </ul>
     </div>
